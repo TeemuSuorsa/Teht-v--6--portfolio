@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Puhelinluettelo</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1><a href="Index.html">Pääsivu</a></h1>
+    <h1>Puhelinluettelo</h1>
+
+    <table>
+      <tr>
+        <th>Nimi</th>
+        <th>Puhelinnumero</th>
+      </tr>
+    </table>
+    <script>
+      $(document).ready(function () {
+        $.getJSON(
+          "http://a41d.k.time4vps.cloud:3001/henkilot",
+          function (data) {
+            $.each(data, function (key, value) {
+              $("table").append(
+                "<tr><td>" +
+                  value.nimi +
+                  "</td><td>" +
+                  value.puhelin +
+                  "</td></tr>"
+              );
+            });
+          }
+        );
+      });
+    </script>
+  </body>
+</html>
