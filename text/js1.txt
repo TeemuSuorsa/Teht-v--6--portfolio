@@ -1,0 +1,13 @@
+Mitä teit?
+Tehtävässä tehtiin palindromin tunnistus funktio johon käyttäjä pystyi antamaan syötettä ja sen perusteella annettiin vastaus oliko syöte palindromi vai ei. 
+Miten teit? 
+Käytin luennoilla käytyjä powerpoint kalvoja apuna kuinka saadaan käyttäjän syöte otettua javascriptissä modulella. Sitten loin funktion joka ottaa käyttäjän syötteen ja 
+pyöräyttää sen ympäri loopilla. Alkuperäistä ja käännettyä sanaa verrataan ja jos ne ovat samoja on sana palindromi.
+Miksi teit?
+Tämä oli mielestäni yksinkertaisin keino saada sana pyöräytettyä nurinkurin. 
+Mitä opit? 
+Opin kuinka saadaan javascriptiin käyttäjäsyöte terminaalissa sekä yleisesti javascripitin syntaxista. 
+Mitä jäi vielä oppimatta?
+Tehtävä meni maaliin ja mielestäni tehtävään nähden ei jäänyt oppimatta mitään.
+Miten mielestäsi onnistuit tässä tehtävässä ja mitä tekisit nyt toisin (jos mitään)?
+Onnistuin hyvin tehtävässä, en varmaan tekisi mitään eritavalla. 
