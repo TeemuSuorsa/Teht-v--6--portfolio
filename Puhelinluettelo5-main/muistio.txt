@@ -1,0 +1,7 @@
+Serverin asennus
+npm install -g json-server@0
+
+Serverin käynnistys
+json-server --watch db.json // ja tähän db.json ladattava tiedosto, täytyy olla oikea kansio kyseessä, eli tässä tapauksessa /server
+
+Tehtävänä tehdä muokkaus osio puhelinnumerolle. 

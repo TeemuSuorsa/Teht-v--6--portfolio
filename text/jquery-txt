@@ -1,0 +1,16 @@
+Mitä teit?
+Tehtävänä oli tehdä käyttöliittymä puhelinluetteloon.
+Piti tehdä kolme eri sivua, index, phonebook ja Search.
+Miten teit? 
+Tehtävässä oli annettu valmiiksi pienipätkä koodia johon tuli tehdä itse toiminnallisuus.
+Lisäsin jqueryllä taulukon läpi käynnin puhelinluetteloon.
+Search välilehdellä haetaan nimen perusteella ja näytetään viereisessä laatikossa puhelinnumero.
+Miksi teit?
+Tein niin simppelin toteutuksen kun pystyin koska en tajunnut oikeastaan koko jquerystä mitään.
+Tätä tulee harjoitella jatkossa.
+Mitä opit? 
+Jquerystä minimaalisesti
+Mitä jäi vielä oppimatta?
+Oikeastaan kaikki, täytyy ottaa tästä selvää enemmän.
+Miten mielestäsi onnistuit tässä tehtävässä ja mitä tekisit nyt toisin (jos mitään)?
+Mielestäni tehtävä olisi voinut mennä todella paljon paremmin ja olisin voinut keskittyä myös ulkoasuun.

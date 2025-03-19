@@ -1,0 +1,14 @@
+Mitä teit?
+Tehtävässä piti tehdä luokkamäärittely sekä periytyminen.
+Miten teit? 
+Tein luokan henkilö sekä luokan urheilija joka perii henkilö luokan.
+Tein myös urheilija luokkaan Getterin ja setterin Omapainolle.
+Muutaman esimerkki ilmentymän tein ja testasin setterin ja getterin. 
+Miksi teit?
+Tein harjoituksen luennolla käytyjen esimerkkien mukaisesti
+Mitä opit? 
+javascriptillä tekemään luokkia
+Mitä jäi vielä oppimatta?
+Olisi voinut perehtyä paremmin getterin ja setterin toimintaan
+Miten mielestäsi onnistuit tässä tehtävässä ja mitä tekisit nyt toisin (jos mitään)?
+En osaa sanoa koska sain tehtävän tehtyä mutta epävarmaksi jäi teinkö sitä tehtävän annon mukaisesti kun ei tätä tehdessä ollut vielä palautetta tullut.

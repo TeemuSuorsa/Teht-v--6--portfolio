@@ -1,0 +1,10 @@
+th,
+td {
+  border-bottom: 1px solid #ddd;
+}
+th {
+  font-weight: bold;
+}
+div{
+    font-size: larger;
+}
