@@ -1,0 +1,15 @@
+Mitä teit?
+asensin modulet käyttäjä syötettä varten ja tein testi dataa taulukkoa varten ja pushasin ne sitten taulukkoon. Tein function jolla voi lisätä nimen sekä numeron samaan taulukkoon.
+Hakemis funktiossa käydään taulukko läpi nimen perusteella.
+Switchillä pyöritettään sitten mitä käyttäjä haluaa tehdä.
+Miten teit? 
+Yllä kuvasin tämän
+
+Miksi teit?
+Tälläisellä switch casella saa mielestäni luotua simppelisti tälläisen ohjelman
+Mitä opit? 
+kuinka käytetään taulukoita javascriptillä.
+Mitä jäi vielä oppimatta?
+Tehtävään nähden ei mitään
+Miten mielestäsi onnistuit tässä tehtävässä ja mitä tekisit nyt toisin (jos mitään)?
+Mielestäni tehtävä onnistui tehtävän annon mukaisesti ja en tekisi mitään toisin
